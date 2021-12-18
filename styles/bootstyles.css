@@ -1,0 +1,47 @@
+/* Carter Bateman 12/14/21 */
+/* This is my tableau custom styles sheet for Tableau  */
+
+.bottle{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(170, 11, 11);
+}
+
+.leftmenu{
+    /* top: 114px; */
+    left: 5px;
+    width: 200px;
+    bottom: 64px;
+    z-index: 1;
+    /* padding-top: 40px; */
+    padding-left: 50px;
+    border-right: solid 1px #5555;
+}
+.rocky{
+    color: navy;
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+
+.jojo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: green;
+    font-style: italic;
+}
+
+.joy{
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: lightslategray;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    font-size: 20px;;
+}

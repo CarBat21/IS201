@@ -1,0 +1,47 @@
+/* Carter Bateman 12/11/21 */
+/* these are the styles which I overwrote on my project. */
+.jojo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.africa {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: red;
+}
+
+.french {
+    color: blue;
+    font-size: xx-large;
+}
+
+/* custom backgrounds for each page. */
+.rawr {
+    background-color: lightskyblue;
+}
+
+.drop{
+    background-color: lightgray;
+}
+
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 200px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 40px;
+    padding-left: 50px;
+    border-right: solid 1px #5555;
+}
+
+.bold{
+    font-display: bold;
+}
+
+.joy{
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
